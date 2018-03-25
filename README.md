@@ -1,6 +1,8 @@
 # Brian J. Stankiewicz, Ph.D.
 
-## Test
+## Publications & Patents
+
+[Google Scholar](https://goo.gl/1pwk8X)
 
 ## Welcome to GitHub Pages
 
